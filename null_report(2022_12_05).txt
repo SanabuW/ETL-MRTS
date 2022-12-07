@@ -1,0 +1,43 @@
+Null values are found in the categories and gaps below:
+
+All other home furnishings stores: 
+32.29% of values are null.
+    Gap 1: 1992-01-01 to 2000-12-31
+    Gap 2: 2020-10-01 to 2021-01-31
+
+Drinking places: 
+10.29% of values are null.
+    Gap 1: 2018-03-01 to 2021-01-31
+
+Electronics stores: 
+17.14% of values are null.
+    Gap 1: 1992-01-01 to 1996-12-31
+
+Floor covering stores: 
+13.71% of values are null.
+    Gap 1: 2017-03-01 to 2021-01-31
+
+Full service restaurants: 
+3.71% of values are null.
+    Gap 1: 2020-02-01 to 2021-01-31
+
+Home furnishings stores: 
+1.43% of values are null.
+    Gap 1: 2020-10-01 to 2021-01-31
+
+Men's clothing stores: 
+0.57% of values are null.
+    Gap 1: 2020-10-01 to 2020-11-30
+
+Other clothing stores: 
+30.86% of values are null.
+    Gap 1: 1992-01-01 to 2000-12-31
+
+Paint and wallpaper stores: 
+30.86% of values are null.
+    Gap 1: 1992-01-01 to 2000-12-31
+
+Supermarkets and other grocery (except convenience) stores: 
+30.86% of values are null.
+    Gap 1: 1992-01-01 to 2000-12-31
+
